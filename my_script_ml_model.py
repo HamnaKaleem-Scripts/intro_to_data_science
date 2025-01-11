@@ -1,4 +1,6 @@
-
+#performinf EDA functions
+#applying  a ml_model
+#using streamlit
 import pandas as pd
 import streamlit as st
 import seaborn as sns
